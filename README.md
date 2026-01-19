@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=iamkalidas&label=Profile%20views&color=0e75b6&style=flat" alt="iamkalidas" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iamkalidas&theme=onedark" alt="iamkalidas" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://twitter.com/i_m_kalidas" target="blank">
