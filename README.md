@@ -124,12 +124,17 @@
 <a href="https://leetcode.com/i_m_kalidas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kalidasghule143"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/i_m_kalidas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21178508/i-m-kalidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="i-m-kalidas" height="30" width="40" /></a>
+<a href="https://instagram.com/i_m_kalidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_kalidas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@i_am_kalidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="i_am_kalidas" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/iamkalidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamkalidas" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@iamkalidas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="iamkalidas HackerEarth" height="30" width="40" />
 </p>
 
 ---
 
 ## 📄 Resume
-📎 View Resume: https://drive.google.com/file/d/1mzYsE17XXX9kOY3-suvPSONb1KU29-mT/view?usp=drive_link
+📎 View Resume: [https://drive.google.com/file/d/1mzYsE17XXX9kOY3-suvPSONb1KU29-mT/view?usp=drive_link](https://drive.google.com/file/d/1gE7-ZPWcXLvVPFDZH_MnX0nKBMgwjOS-/view?usp=drive_link)
 
 ---
 
