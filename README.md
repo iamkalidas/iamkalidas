@@ -75,7 +75,7 @@
 ---
 
 ## 🧠 Currently Focused On
-- Data Structures & Algorithms (Interview Preparation)
+- Data Structures & Algorithms
 - Spring Boot Microservices Architecture
 - System Design Fundamentals
 - Cloud Deployment (AWS & Docker)
