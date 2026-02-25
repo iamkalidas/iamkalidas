@@ -80,20 +80,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkalidas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p> -->
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamkalidas&show_icons=true&theme=tokyonight" alt="Kalidas's GitHub stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkalidas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamkalidas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p> -->
+
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamkalidas&show_icons=true&theme=tokyonight" 
-    alt="Kalidas's GitHub stats" 
+    width="32%" 
   />
-  
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=iamkalidas&theme=tokyonight" 
-    alt="GitHub Streak" 
+    width="32%" 
   />
-  
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamkalidas&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
+    width="32%" 
   />
 </p>
 
